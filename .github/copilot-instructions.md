@@ -32,4 +32,13 @@ Rules below are managed only through reviewed candidate pull requests.
 - **Scope:** path:src/
 - **Provenance:** [PR #2 comment 5703311484](https://github.com/abelberhane/skills-selfcorrect-v2/pull/2#issuecomment-5703311484) by @abelberhane
 
+### RULE-STYLE-B7F4001D9423
+
+- **Category:** STYLE
+- **State:** active
+- **Rule:** Use const for values that are never reassigned.
+- **Rationale:** Reassignment was used for values that never change.
+- **Scope:** path:src/
+- **Provenance:** [PR #2 comment 5703424160](https://github.com/abelberhane/skills-selfcorrect-v2/pull/2#issuecomment-5703424160) by @abelberhane
+
 <!-- learned-rules:end -->
